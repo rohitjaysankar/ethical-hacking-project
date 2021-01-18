@@ -1,0 +1,75 @@
+body
+{
+	background: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/top-ethical-hacking-certifications-to-consider-article.jpg");
+	
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	margin 0;
+
+}
+.menu-area{
+	overflow: auto;
+	background-color: #262626;
+	width: 100%;
+	}
+
+.menu-area ul{
+	margin: 0;
+	pading: 0;
+	list-style: none;
+}
+
+.menu-area ul li
+{
+      float:left;
+
+}
+
+.menu-area ul li a
+
+{
+	width:120px;
+	display: block;
+	padding: 15px;
+	color: #fff;
+	text-decoration: none;
+	text-transform:uppercase;
+	font-family:poppins;
+	font-size: 20px;
+ 
+
+}
+.menu-area ul li a:hover{
+background: #f00;}
+
+
+#search
+ {
+	width:450px;
+	padding: 5px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius:25px;
+        
+	font-size: 18px;
+	border:none;
+	text-align: center;
+	margin:15px;
+
+
+}
+.styled {
+	width: 600px;
+	resize: none;
+	height: 120px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-image: url(bg.gif);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+
